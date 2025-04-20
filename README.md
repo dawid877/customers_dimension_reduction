@@ -1,4 +1,4 @@
-## Customers Data Dimension Reduction Project
+## Dimension reduction of customers data
 
 The goal of this project is to reduce the dimensionality of a dataset sourced from Kaggle, which contains characteristics of online customers from an e-commerce platform.  
 The objective was to identify latent factors for effective e-customer segmentation.
